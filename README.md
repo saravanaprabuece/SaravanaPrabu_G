@@ -21,5 +21,5 @@ Worked on real-time applications, including digital clocks, sensors, and communi
 🎯 My goal is to contribute to impactful projects and tackle challenging problems with creative solutions.
 
 📬 Let’s Connect
-LinkedIn: linkedin.com/in/saravanaprabu-g-429161300
+LinkedIn: [linkedin.com/in/saravanaprabu-g-429161300](https://www.linkedin.com/in/saravanaprabu-g-429161300/overlay/contact-info/)
 Email: saravanaprabuece@gmail.com
